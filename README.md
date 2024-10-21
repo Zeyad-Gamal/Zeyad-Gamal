@@ -10,6 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-username)
 
 <!--
 **Zeyad-Gamal/Zeyad-Gamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
