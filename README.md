@@ -8,6 +8,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23074042.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-profile)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 <!--
 **Zeyad-Gamal/Zeyad-Gamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
