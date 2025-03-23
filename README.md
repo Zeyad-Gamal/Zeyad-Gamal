@@ -3,11 +3,15 @@
 
 - 🔭 I’m currently working on
   <br>
+  <div>
   <strong>Kendaka Mobile App</strong><br>
   <img src="https://raw.githubusercontent.com/Zeyad-Gamal/Zeyad-Gamal/main/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300">
+  </div>
 
-  <strong>Baitak Mobile App</strong>
+  <div>
+    <strong>Baitak Mobile App</strong><br>
   <img src="https://raw.githubusercontent.com/Zeyad-Gamal/Zeyad-Gamal/main/projects/baitak/baitak.jpeg" height="300">
+  </div>
 
 
 
