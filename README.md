@@ -3,12 +3,18 @@
 
 - 🔭 I’m currently working on
   <br>
+  <ul>
+    <li>
   -> **Kendaka Mobile App**
   <br>
-  <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300" width="200">
-<br>
+  <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300" width="200">    
+    </li>
+<li>
+    -> **Baitak Mobile App**
 
-  -> **Baitak Mobile App**
+</li>
+  </ul>
+
 
 - 🌱 I’m currently learning **React library , Laravel framework , Electron framework**
 
