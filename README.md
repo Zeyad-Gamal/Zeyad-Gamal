@@ -5,7 +5,7 @@
   <br>
   -> **Kendaka Mobile App**
   <br>
-  <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png">
+  <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="80" width="80">
 <br>
 
   -> **Baitak Mobile App**
