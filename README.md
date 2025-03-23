@@ -8,14 +8,13 @@
         <strong>Kendaka Mobile App</strong>
       <br>
         <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300" width="200">    
-
 </div>
     <div>
       <strong>Baitak Mobile App</strong>
       <br>
         <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/3ed341a1e3fde39045149e802910771699b9b6a9/projects/baitak/baitak.jpeg" height="300" width="200">    
     </div>
-</div>
+    </div>
 
 
 - 🌱 I’m currently learning **React library , Laravel framework , Electron framework**
