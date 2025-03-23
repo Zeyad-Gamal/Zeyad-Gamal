@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeyad Gamal</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Kendaka Mobile App**
+- 🔭 I’m currently working on
+  -> **Kendaka Mobile App**
+  -> **Baitak Mobile App**
 
 - 🌱 I’m currently learning **React library , Laravel framework , Electron framework**
 
