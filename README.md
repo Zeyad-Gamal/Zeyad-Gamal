@@ -2,7 +2,10 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on
+  <br>
   -> **Kendaka Mobile App**
+  <br>
+
   -> **Baitak Mobile App**
 
 - 🌱 I’m currently learning **React library , Laravel framework , Electron framework**
