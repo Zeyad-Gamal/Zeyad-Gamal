@@ -5,13 +5,13 @@
   <br>
   <ul>
     <li>
-**Kendaka Mobile App**
+      <strong>Kendaka Mobile App</strong>
       <br>
         <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300" width="200">    
 
     </li>
     <li>
-  **Baitak Mobile App**
+    <strong>Baitak Mobile App</strong>
     </li>
   </ul>
 
