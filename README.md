@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on
   <br>
   <ul>
-    <li style="color:green;">
-      <strong color="green">Kendaka Mobile App</strong>
+    <li>
+      <strong style="color:green;">Kendaka Mobile App</strong>
       <br>
         <img src="https://github.com/Zeyad-Gamal/Zeyad-Gamal/blob/c7a36b234c91554e3720e4e5ef609739decbd1bd/projects/kendaka/Annotation%202025-03-24%20003347.png" height="300" width="200">    
 
     </li>
     <li>
-    <strong>Baitak Mobile App</strong>
+    <strong style="color:green;">Baitak Mobile App</strong>
     </li>
   </ul>
 
