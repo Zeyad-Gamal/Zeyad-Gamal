@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zeyad-gamal.github.io/Portfolio/](https://zeyad-gamal.github.io/Portfolio/)
 
-- 💬 Ask me about **React , Laravel , PHP , python , Flask , Java**
+- 💬 Ask me about **React , Laravel , PHP , Python , Flask , Java**
 
 - 📫 How to reach me **zeyadabosetta2@gmail.com**
 
