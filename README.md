@@ -6,7 +6,6 @@
   **->Kendaka Mobile App** <br>
 
 
-   **->Baitak Mobile App**
 
 
 
