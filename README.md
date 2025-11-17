@@ -36,8 +36,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-gamal&show_icons=true&locale=en&layout=compact" alt="zeyad-gamal" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Zeyad-Gamal/Zeyad-Gamal/output/snake.svg" alt="Snake animation" />
-
-###
