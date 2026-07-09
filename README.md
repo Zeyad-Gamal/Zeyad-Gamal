@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React library , Laravel framework , Electron framework**
 
-- 👨‍💻 All of my projects are available at [https://zeyad-gamal.github.io/Portfolio/](https://zeyad-gamal.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://zeyad-gamal.github.io/Portfolio/](https://zeyad-gamal.github.io/portfolio/)
 
 - 💬 Ask me about **React , Laravel , PHP , Python , Flask , Java**
 
