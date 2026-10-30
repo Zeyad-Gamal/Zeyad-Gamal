@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ziad Zayed</h1>
 
 <h3 align="center">
@@ -99,4 +98,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad-gamal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
+
